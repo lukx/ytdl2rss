@@ -1,0 +1,2 @@
+youtube-dl==2018.9.26
+feedgen==0.7.0

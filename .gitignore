@@ -1,0 +1,4 @@
+yt2pod/
+*.xml
+.idea
+__pycache__/
