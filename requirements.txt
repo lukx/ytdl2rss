@@ -1,2 +1,2 @@
-youtube-dl==2018.9.26
-feedgen==0.7.0
+youtube-dl==2020.3.1
+feedgen==0.9.0
